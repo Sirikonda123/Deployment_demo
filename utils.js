@@ -26,4 +26,4 @@ appwriteAccountPromise.then(function (response) {
 // Establish the database to use via its ID. Then
 // export the database object so that it can be
 // imported by other parts of the React project.
-export const appwriteDatabase = new Databases(appwriteClient, 'Your-Database-ID');
+export const appwriteDatabase = new Databases(appwriteClient, '64a51a26bbb4c1fd45f7');
